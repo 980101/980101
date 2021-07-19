@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-## I'm a Student studying computer science!!
+## About Me
 - 🔭 I’m currently working on toy projects with JS
 - 🌱 I’m currently learning Javascript
 
