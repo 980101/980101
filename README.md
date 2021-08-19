@@ -2,7 +2,7 @@
 
 ## About Me
 - 🔭 I’m currently working on toy projects with JS
-- 🌱 I’m currently learning Javascript
+- 🌱 I’m currently learning React
 
 ### Languages and Tools:
 
