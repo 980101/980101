@@ -1,8 +1,9 @@
 ### Hi there 👋
 
 ## About Me
-- 🔭 I’m currently working on toy projects with JS
-- 🌱 I’m currently learning React
+- 👩 I'm a college student.
+- 💻 I’m currently developing a mobile application.
+- 🌱 I’m currently learning CS.
 
 ### Languages and Tools:
 
